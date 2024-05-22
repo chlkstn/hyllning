@@ -1,5 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap");
 
+body {
+  background: rgb(244, 244, 247);
+  background: linear-gradient(
+    90deg,
+    rgb(196, 181, 173) 0%,
+    rgb(255, 255, 255) 100%
+  );
+}
+
+h1 {
+  font-size: 4em;
+  padding-left: 0.5em;
+}
+
 .sideL {
   width: 60%;
   padding-left: 15px;
@@ -29,4 +43,13 @@ header {
 h2 {
   font-family: jaro;
   color: rgb(47, 92, 47);
+}
+
+.minigallery {
+  font-family: jaro;
+  color: rgb(47, 92, 47);
+  font-size: large;
+
+  padding: 0 1em;
+  float: inline-start;
 }
