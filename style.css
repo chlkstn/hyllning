@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap");
+
+.sideL {
+  width: 60%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+}
+
+.sideR {
+  width: 20%;
+  padding-left: 1em;
+  padding-right: 1em;
+
+  float: right;
+  background-color: rgb(230, 221, 202);
+}
+
+.heroImage {
+  width: 100%;
+}
+
+header {
+  font-family: jaro;
+  font-style: italic;
+  color: rgb(47, 92, 47);
+}
+
+h2 {
+  font-family: jaro;
+  color: rgb(47, 92, 47);
+}
