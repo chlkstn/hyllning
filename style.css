@@ -50,6 +50,7 @@ h2 {
   color: rgb(47, 92, 47);
   font-size: large;
 
-  padding: 0 1em;
+  padding-left: 15px;
+  margin-left: 15px;
   float: inline-start;
 }
